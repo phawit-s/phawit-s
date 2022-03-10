@@ -5,7 +5,7 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 1. [PSIT](https://github.com/phawit-s/PSIT-Project-2019) โปรเจคที่ทำเว็บไซต์
 2. [WanYen](https://github.com/fluke1352/WanYen) โปรเจคที่ทำทางด้าน multimedia โดยใช้ความรู้ทางด้าน SVG HTML และ CSS
 3. [Webtech](https://github.com/phawit-s/webtech-get-A) โปรเจคที่ต้องคัดลอกUIของเว็บไซต์ GQ เพื่อฝึกการออกแบบUI
-4. [OOP](https://github.com/phawit-s/OOP_GET_A)
-5. [WebPro](https://github.com/phawit-s/webpro_GET_A)
-6. [Mobile](https://github.com/phawit-s/docdoc)
-7. [SOP](https://github.com/phawit-s/WebCoconut)
+4. [OOP](https://github.com/phawit-s/OOP_GET_A) โปรเจคที่ทำเกมโดยใช้ภาษา JAVA
+5. [WebPro](https://github.com/phawit-s/webpro_GET_A) โปรเจคที่ทำด้านการ Web application
+6. [Mobile](https://github.com/phawit-s/docdoc) โปรเจคทำ Application โดยใช้ React-native
+7. [SOP](https://github.com/phawit-s/WebCoconut) 
