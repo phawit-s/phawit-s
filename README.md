@@ -7,5 +7,5 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 3. [Webtech](https://github.com/phawit-s/webtech-get-A) โปรเจคที่ต้องคัดลอกUIของเว็บไซต์ GQ เพื่อฝึกการออกแบบUI
 4. [OOP](https://github.com/phawit-s/OOP_GET_A) โปรเจคที่ทำเกมโดยใช้ภาษา JAVA
 5. [WebPro](https://github.com/phawit-s/webpro_GET_A) โปรเจคที่ทำด้านการ Web application
-6. [Mobile](https://github.com/phawit-s/docdoc) โปรเจคทำ Application โดยใช้ React-native
-7. [SOP](https://github.com/phawit-s/WebCoconut) 
+6. [Mobile](https://github.com/phawit-s/docdoc) โปรเจคทำ Application สำหรับการพบแพทย์ โดยใช้ React-native 
+7. [SOP](https://github.com/phawit-s/WebCoconut) เป็นเว็บคลายเหงาโดยใช้การใส่ข้อความในขวดแล้วทิ้งลงทะเลและใครๆก็จะสามารถอ่านข้อความนั้นได้แต่จะไม่รู้ว่าข้อความนั้นเป็นของใครโดยเว็บนี้พัฒนาโดยใช้หลักการmicroservices
