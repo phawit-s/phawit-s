@@ -14,20 +14,32 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 
 [WanYen](https://www.youtube.com/watch?v=jvEHmKhoUWg)
 
-[![WanYen](https://i.ytimg.com/an_webp/jvEHmKhoUWg/mqdefault_6s.webp?du=3000&sqp=CODappEG&rs=AOn4CLBcAKlQGqzxFzfpIeURs3O8rkfVoQ)](https://www.youtube.com/watch?v=jvEHmKhoUWg)
+<a href="https://www.youtube.com/watch?v=jvEHmKhoUWg" target="_blank">
+ <img src="https://cdn.discordapp.com/attachments/686119492723802132/953202599778209832/jvEHmKhoUWg-SD.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 
 [DocDoc](https://youtu.be/MtHY7Z6pYSU)
 
-[![DocDoc](https://i.ytimg.com/an_webp/MtHY7Z6pYSU/mqdefault_6s.webp?du=3000&sqp=CIbjppEG&rs=AOn4CLBM0GJr81q1tEwdK8pC3aoe6yv25Q)](https://youtu.be/MtHY7Z6pYSU)
+<a href="https://youtu.be/MtHY7Z6pYSU" target="_blank">
+ <img src="https://cdn.discordapp.com/attachments/686119492723802132/951401587983675412/unknown.png" alt="Watch the video" width="500" height="300" border="10" />
+</a>
 
 [Webcoconut](https://www.youtube.com/watch?v=UR9MG89r4Ws)
 
-[![Webcoconut](https://i.ytimg.com/an_webp/UR9MG89r4Ws/mqdefault_6s.webp?du=3000&sqp=CPbzppEG&rs=AOn4CLAOuiOrZ9cOh1vTwd4fB-cbOVEWCA)](https://www.youtube.com/watch?v=UR9MG89r4Ws)
+<a href="https://www.youtube.com/watch?v=UR9MG89r4Ws" target="_blank">
+ <img src="https://cdn.discordapp.com/attachments/686119492723802132/953202133421924412/UR9MG89r4Ws-HD.jpg" alt="Watch the video" width="500" height="300" border="10" />
+</a>
+
 
 [PSIT](https://youtu.be/GrX8jFsIrqM)
 
-[![PSIT](https://i9.ytimg.com/vi/GrX8jFsIrqM/mq3.jpg?sqp=CODyppEG&rs=AOn4CLBL_4LZtdQcjSQVyOfZpH2Aupuogw)](https://youtu.be/GrX8jFsIrqM)
+<a href="https://www.youtube.com/watch?v=GrX8jFsIrqM" target="_blank">
+ <img src="https://media.discordapp.net/attachments/686119492723802132/953200949768355850/GrX8jFsIrqM-HD.jpg" alt="Watch the video" width="500" height="300" border="10" />
+</a>
 
 [WebTech](https://youtu.be/4bvZBjh_1Ak)
 
-[![WebTech](https://i9.ytimg.com/vi/4bvZBjh_1Ak/mq2.jpg?sqp=CIz1ppEG&rs=AOn4CLBmZWCEw2rnJO627yU6li4EtYd7bg)](https://youtu.be/4bvZBjh_1Ak)
+<a href="https://www.youtube.com/watch?v=4bvZBjh_1Ak" target="_blank">
+ <img src="https://cdn.discordapp.com/attachments/686119492723802132/953201668042944542/4bvZBjh_1Ak-HD.jpg" alt="Watch the video" width="500" height="300" border="10" />
+</a>
