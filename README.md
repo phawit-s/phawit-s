@@ -15,7 +15,7 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 [WanYen](https://www.youtube.com/watch?v=jvEHmKhoUWg)
 
 <a href="https://www.youtube.com/watch?v=jvEHmKhoUWg" target="_blank">
- <img src="https://cdn.discordapp.com/attachments/686119492723802132/953202599778209832/jvEHmKhoUWg-SD.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://cdn.discordapp.com/attachments/686119492723802132/953202599778209832/jvEHmKhoUWg-SD.jpg" alt="Watch the video" width="500" height="300" border="10" />
 </a>
 
 
