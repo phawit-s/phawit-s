@@ -10,7 +10,7 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 6. [DOCDOC](https://github.com/phawit-s/docdoc) โปรเจคทำ Application สำหรับการพบแพทย์ โดยใช้ React-native 
 7. [Webcoconut](https://github.com/phawit-s/WebCoconut) เป็นเว็บคลายเหงาโดยใช้การใส่ข้อความในขวดแล้วทิ้งลงทะเลและใครๆก็จะสามารถอ่านข้อความนั้นได้แต่จะไม่รู้ว่าข้อความนั้นเป็นของใครโดยเว็บนี้พัฒนาโดยใช้หลักการmicroservices
 8. [Webtech2](https://github.com/phawit-s/Webtech2022) เป็นเว็บไซต์จำลองการซื้อขายอุปกรณ์อิเล็กทรอนิกส์โดยใช้ reactjs และ react-bootstrap
-9. [Dropquest](https://github.com/phawit-s/DropQuest-website) เป็นเว็บไซต์ในการจัดการตัวเกมบนมือถือให้มีความหลากหลายมากยิ่งขึ้นโดยใช้ reactjs / nodejs / express / mysql ในการพัฒนา
+9. [Content Management Web for DropQuest](https://github.com/phawit-s/DropQuest-website) เป็นเว็บไซต์ในการจัดการตัวเกมบนมือถือให้มีความหลากหลายมากยิ่งขึ้นโดยใช้ reactjs / nodejs / express / mysql ในการพัฒนา
 
 # Youtube
 
@@ -29,7 +29,7 @@ Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Tec
 ### [WebTech](https://youtu.be/4bvZBjh_1Ak)
 
 
-### [Dropquest](https://www.youtube.com/watch?v=3T1t3JYMzgk)
+### [Content Management Web for DropQuest](https://www.youtube.com/watch?v=3T1t3JYMzgk)
 
 <a href="https://www.youtube.com/watch?v=3T1t3JYMzgk" target="_blank">
  <img src="https://cdn.discordapp.com/attachments/686119492723802132/1111170569925304370/image.png" alt="Watch the video" width="600" height="300" border="10" />
