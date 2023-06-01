@@ -1,5 +1,5 @@
 # Hello, I'm Phawit Sapthaweekarn
-Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Technology student of [KMITL](https://www.it.kmitl.ac.th/en/) Now I'm interested in Moblie Application and I'm learning about React Native to develop Application on Mobile phone
+Hi, My name is Phawit Sapthaweekarn. You can call me "Gain". I'm Information Technology student of [KMITL](https://www.it.kmitl.ac.th/en/). Now I'm interested in Full-Stack Developer and now I mainly use react.js, node.js and now I'm looking for other languages to improve myself.
 
 # My project
 1. [PSIT](https://github.com/phawit-s/PSIT-Project-2019) โปรเจคที่ทำเว็บไซต์
